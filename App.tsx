@@ -93,7 +93,7 @@ const App: React.FC = () => {
               <li key={index}><span className="text-slate-300">{ach}</span></li>
             ))}
           </ul>
-        </section>
+        </Section>
 
         <footer className="text-center pt-16">
           <p className="text-base text-slate-500">
